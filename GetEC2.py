@@ -1,4 +1,3 @@
-from typing import Pattern
 import boto3
 import sys
 
